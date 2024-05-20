@@ -22,4 +22,5 @@ if youve done this before, it works like any old resource pack.
 changing the textures for the pack is relatively simple, however theres a few rules if you want it to work & look correct.
 - only directly replace files; minecraft relies on a file structure to grab textures, which means file location and name for the desired texture can not be changed
 - use no half-transparent pixels, and use png base material with full transparency; Minecraft does not take out jpeg blacks when loading textures, so use real transparency, also half-transparent pixels hide the pixels behind them in the simulated 3d view of the side of an item, and will cause your item to look two dimensional.
+- Use only square images for textures unless Minecraft explicitly does it differently; Minecraft uses the forms of textures for loading, and also with ruthlessly strech or cut off non square item textures for example.
 - feel free to modify my stuff; This isnt strictly a rule, but I think its fun.
