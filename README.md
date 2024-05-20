@@ -9,7 +9,7 @@ having them be the same or a similar thing is highly reccomended.\
 Also please note that the wrong version lock applies at the moment - no idea how to fix this since I havent made resourcepacks since version 1.8, where this was'nt an issue.
 
 # Installing the Pack
-if youve done this before, it works like any old resource pack.\
+if youve done this before, it works like any old resource pack.
 - Go to your Minecraft Options
 - Click on Resourcepacks
 - Open the Resourcepack folder
